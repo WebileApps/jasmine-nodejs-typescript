@@ -1,0 +1,17 @@
+{
+  "name": "jasmine-test-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jasmine": "^3.6.4",
+    "jasmine": "^3.6.4",
+    "typescript": "^4.2.2"
+  }
+}
